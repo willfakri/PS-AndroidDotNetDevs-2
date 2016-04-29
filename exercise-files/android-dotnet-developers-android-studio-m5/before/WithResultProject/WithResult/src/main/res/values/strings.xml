@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">WithResult</string>
+  <string name="action_settings">Settings</string>
+  <string name="provide_info_button_text">Provide Information</string>
+  <string name="take_picture_button_text">Take Picture</string>
+  <string name="send_button_text">Send</string>
+  <string name="send_dialog_title">Send Information</string>
+  <string name="send_dialog_message">Do you wish to send this information?</string>
+  <string name="send_dialog_positive_button">Yes</string>
+  <string name="send_dialog_negative_button">No</string>
+  <string name="title_activity_provide_info">Your Info</string>
+  <string name="title_activity_main">Getting Results</string>
+  <string name="course_label_text">Select Course</string>
+  <string name="email_edittext_hint">Your Email</string>
+  <string name="your_name_edittext_hint">Your Name</string>
+  <string name="done_button_text">Done</string>
+  <string name="classGettingStarted_radiobutton_text">Android for .NET Devs: Getting Started
+  </string>
+  <string name="classIntents_radiobutton_text">Android Programming with Intents</string>
+  <string name="classActionBar_radiobutton_text">Improving UI Interaction with Android ActionBar
+  </string>
+  <string name="classAsyncAndServices_radiobutton_text">Android Async Programming and Services
+  </string>
+  <string name="class4NewFeatures_radiobutton_text">Android 4.0 New Features</string>
+
+</resources>

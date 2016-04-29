@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\before\WithResultProject\WithResult\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\before\WithResultProject\WithResult\src\debug\assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369946828886 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1370024477749 905 6875e7f5b95225b0958ba734bca3e8dc1e15a7f7 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\values\values.xml
+1369946828887 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1369946828886 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1370025130529 384 a08911a3358a2f8b1aae5f6352d17cc712458738 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\menu\main.xml
+1369946828887 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1369946828887 649 52e8d9051811c2787c5fc0d0dc7735d67b0820be C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\layout\activity_main.xml
+1369946828890 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\values-v14\values.xml
+1369946828894 210 c41731f5631a90fa989588ef97e9476fc244b438 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\values-v11\values.xml
+1369946828899 130 90e37035f35f83953c491e73e930b7aea297a472 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\res\all\debug\values-sw720dp-land\values.xml

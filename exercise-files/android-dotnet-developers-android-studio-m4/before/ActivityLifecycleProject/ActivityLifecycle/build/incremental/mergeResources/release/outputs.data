@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371691889198 177 10ffe430fde20fedadf9803ca314921346b7bc72 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\menu\activity02.xml
+1371737094880 1602 ed16ce4efdb7bcccabaf8ab8425a7ad7b97eee2b C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\layout\activity02.xml
+1371676981624 210 c41731f5631a90fa989588ef97e9476fc244b438 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\values-v11\values.xml
+1371740128410 1525 13b48bd368390a020fb51f70435f6ba1624858e7 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\values\values.xml
+1371676981612 5237 7761bceaf18ed25cdba5f34bf00a55616d078acf C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\drawable-mdpi\ic_launcher.png
+1371740128408 1275 d1d962d2c9e95c8ff048730d32a367aa3f800b3e C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\layout\activity_main.xml
+1371676981620 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\values-v14\values.xml
+1371691309446 185 2d1cc043f8c096ba11e6d1ea9c42d75abc73ee82 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\menu\activity03.xml
+1371676981627 130 90e37035f35f83953c491e73e930b7aea297a472 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\values-sw720dp-land\values.xml
+1371740128408 689 f0b557e7753cc779009d0f1f0a0d43f8fd2cf064 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\layout\activity03.xml
+1371676981609 9397 4a5a9affbb731f195fc18fea78d51be7db7536a2 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\drawable-hdpi\ic_launcher.png
+1371691889198 181 e74359c199af08a28648069fa69566f04b0869b0 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\menu\main.xml
+1371676981612 14383 82acdd75e3fcc36026109406625edc69d4d7212d C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\04-lifecycle\Demo\ActivityLifecycleProject\ActivityLifecycle\build\res\all\release\drawable-xhdpi\ic_launcher.png

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+  <RelativeLayout
+      android:layout_width="fill_parent"
+      android:layout_height="0dp"
+      android:layout_weight="2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/firstTopTextView"
+        android:id="@+id/firstTopTextView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/secondTopTextView"
+        android:id="@+id/secondTopTextView"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/firstTopTextView"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/topSectionButton"
+        android:id="@+id/topSectionButton"
+        android:layout_below="@+id/firstTopTextView"
+        android:layout_toRightOf="@+id/firstTopTextView"
+        android:layout_marginTop="@dimen/activity_vertical_margin"/>
+  </RelativeLayout>
+
+  <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="0dp"
+      android:layout_weight="1"
+      android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/textView"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/textView2"
+        android:layout_weight="1"
+        android:gravity="right"/>
+  </LinearLayout>
+
+  <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="0dp"
+      android:layout_weight="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/bottomTextView"
+        android:id="@+id/bottomTextView"/>
+  </LinearLayout>
+</LinearLayout>

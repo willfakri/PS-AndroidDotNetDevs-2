@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370024479201 787 8a2f396d7a21483ea1745eb26aac95196ebefd0a C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\R.class
+1370024479193 421 27722c2ace941a944cb7ca2993620829847d6e65 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\R$menu.class
+1370024479195 576 5b790db31633795b90e183f27240b402bd4bd419 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\R$string.class
+1370024479191 436 6eddc84a22792ab6c167ed3efab043bcfa802cc2 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\R$layout.class
+1369946830252 440 54011e9aaabd9376ac3623869a5e155250ab4d31 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\R$drawable.class
+1369946830274 367 28a21f9bae94e8074efd0b8cb77005df348b5cb7 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\BuildConfig.class
+1369946830251 494 3725c80ab13f85908c896683c0157de5cc846538 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\R$dimen.class
+1370024479190 497 2330cef91b5ef032f93f1b9ee173bb4f875c81de C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\R$id.class
+1370024479198 464 0d8d41992954b27b3d354c830fab10c6081428e7 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\R$style.class
+1370025131891 1703 898052f03c4913f9d08749dffeeba7bbc8c5bbb1 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\MainActivity.class
+1369946789370 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\libs\android-support-v4.jar
+1369946830248 373 bb8a2b123c36bb4add702798050ce1b95f21938f C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\build\classes\debug\com\pluralsight\interactiveui\R$attr.class

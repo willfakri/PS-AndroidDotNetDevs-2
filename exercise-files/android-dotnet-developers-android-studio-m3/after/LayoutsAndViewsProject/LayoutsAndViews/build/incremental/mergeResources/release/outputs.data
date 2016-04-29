@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370994479452 1116 653fb0c0733e0314969c4970af4be0cddb60429f C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\values\values.xml
+1370992127211 14383 82acdd75e3fcc36026109406625edc69d4d7212d C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\drawable-xhdpi\ic_launcher.png
+1370992127213 344 a856d65891dd6ad175c64e7a42803479c0d1556e C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\menu\main.xml
+1370992127225 210 c41731f5631a90fa989588ef97e9476fc244b438 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\values-v11\values.xml
+1370992127227 5237 7761bceaf18ed25cdba5f34bf00a55616d078acf C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\drawable-mdpi\ic_launcher.png
+1370992127220 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\values-v14\values.xml
+1370994479459 3023 00fcdced1f4ff2a9303aaac4724e191cab2e7091 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\layout\activity_other.xml
+1370992127206 9397 4a5a9affbb731f195fc18fea78d51be7db7536a2 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\drawable-hdpi\ic_launcher.png
+1370992127228 130 90e37035f35f83953c491e73e930b7aea297a472 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\values-sw720dp-land\values.xml
+1370992127209 649 52e8d9051811c2787c5fc0d0dc7735d67b0820be C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\03-views\Demo\LayoutsAndViewsProject\LayoutsAndViews\build\res\all\release\layout\activity_main.xml

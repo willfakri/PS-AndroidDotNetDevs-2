@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\01-interactiveui\Demo\InteractiveUIProject\InteractiveUI\src\debug\assets" />
+    </dataSet>
+
+</merger>

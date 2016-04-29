@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_provide_info"
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\layout\activity_provide_info.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="provide_info"
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\menu\provide_info.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >8dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="classAsyncAndServices_radiobutton_text" >Android Async Programming and Services
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="provide_info_button_text" >Provide Information
+                </string>
+                <string name="take_picture_button_text" >Take Picture
+                </string>
+                <string name="title_activity_main" >Getting Results
+                </string>
+                <string name="send_dialog_negative_button" >No
+                </string>
+                <string name="classIntents_radiobutton_text" >Android Programming with Intents
+                </string>
+                <string name="title_activity_provide_info" >Your Info
+                </string>
+                <string name="course_label_text" >Select Course
+                </string>
+                <string name="send_dialog_message" >Do you wish to send this information?
+                </string>
+                <string name="email_edittext_hint" >Your Email
+                </string>
+                <string name="class4NewFeatures_radiobutton_text" >Android 4.0 New Features
+                </string>
+                <string name="classGettingStarted_radiobutton_text" >Android for .NET Devs: Getting Started
+                </string>
+                <string name="send_dialog_title" >Send Information
+                </string>
+                <string name="classActionBar_radiobutton_text" >Improving UI Interaction with Android ActionBar
+                </string>
+                <string name="send_button_text" >Send
+                </string>
+                <string name="app_name" >WithResult
+                </string>
+                <string name="done_button_text" >Done
+                </string>
+                <string name="your_name_edittext_hint" >Your Name
+                </string>
+                <string name="send_dialog_positive_button" >Yes
+                </string>
+            </file>
+            <file
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\rs\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\src\release\res" />
+    </dataSet>
+
+</merger>

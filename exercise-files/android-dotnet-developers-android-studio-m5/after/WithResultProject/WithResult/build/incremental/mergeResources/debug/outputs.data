@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371864633137 3673 d575000d463e106a1d88d8564767d79a753f1384 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\layout\activity_provide_info.xml
+1371864633150 130 90e37035f35f83953c491e73e930b7aea297a472 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\values-sw720dp-land\values.xml
+1371864633148 210 c41731f5631a90fa989588ef97e9476fc244b438 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\values-v11\values.xml
+1371864633136 9397 4a5a9affbb731f195fc18fea78d51be7db7536a2 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1371864633146 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\values-v14\values.xml
+1371864633143 2086 65fe7afc13d4dbedc72d1dada23aada68ff307f5 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\values\values.xml
+1371864633143 244 045ff451db7cd8e61285502b8c9bbf7405f2078d C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\menu\main.xml
+1371864633142 244 045ff451db7cd8e61285502b8c9bbf7405f2078d C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\menu\provide_info.xml
+1371864633139 3143 94a701879ef87ffb2df6b44bb49103cf448b4b48 C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\layout\activity_main.xml
+1371864633136 5237 7761bceaf18ed25cdba5f34bf00a55616d078acf C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1371864633139 14383 82acdd75e3fcc36026109406625edc69d4d7212d C:\Work\Pluralsight\AndroidForDotNet_Series\Course2_BuildingApp\05-results\exercise-files\after\WithResultProject\WithResult\build\res\all\debug\drawable-xhdpi\ic_launcher.png
