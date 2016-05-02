@@ -20,6 +20,28 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        boolean handled;
+
+        int id = item.getItemId();
+
+        switch (id){
+            case R.id.action_other:
+                onClickMenuOther(item);
+                handled = true;
+                break;
+            case R.id.action_exit:
+                onClickMenuExit(item);
+                handled = true;
+                break;
+            default:
+                handled = super.onOptionsItemSelected(item);
+                break;
+        }
+        return handled;
+    }
+
     public void onClickMenuOther(MenuItem item){
         Toast toast = Toast.makeText(this, "Booo!", Toast.LENGTH_LONG);
         toast.show();
