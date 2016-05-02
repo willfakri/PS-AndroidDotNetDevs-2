@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">InteractiveUI</string>
+    <string name="app_name">Super APP Willian</string>
     <string name="action_settings">Configurêichions</string>
     <string name="action_other">Outro</string>
     <string name="action_exit">Saia daqui!</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="activity2_text">Eu sou o Activity 2!</string>
+    <string name="activity3_botao">Não clique aqui</string>
 </resources>
