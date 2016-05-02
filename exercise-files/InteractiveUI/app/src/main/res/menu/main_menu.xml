@@ -1,10 +1,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
+    <item android:id="@+id/activity2"
+        android:title="@string/activity_2"
         app:showAsAction="never" />
-    <item android:id="@+id/action_other"
-        android:title="@string/action_other" />
+    <item android:id="@+id/activity3"
+        android:title="@string/activity_3" />
     <item android:id="@+id/action_exit"
         android:title="@string/action_exit" />
 </menu>
